@@ -8,7 +8,7 @@ Je vindt de uitwerkingen op verschillende branches:
 * [uitwerkingen-is-game-lost](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-is-game-lost) - zie ook de [Githistory](https://github.githistory.xyz/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-is-game-lost/gamelogic.js)
 * [uitwerkingen-bonusopdrachten](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/bonusopdrachten)
 
-**Geoptimaliseerde uitwerkingen**
+## Geoptimaliseerde uitwerkingen
 Deze uitwerkingen zijn speciaal voor de nieuwschierige aagjes die willen zien wat er allemaal mogelijk is wanneer je de methoden `map`, `filter` en `find` zou toepassen, en hoe kort je sommige dingen zou kunnen opschrijven. Het schrijven van je eigen oplossing - ook al is 'ie **veel** langer - is veel belangrijker!
 * [uitwerkingen-array-methods-rewrite](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-array-methods-rewrite) - zie ook de [Githistory](https://github.githistory.xyz/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-array-methods-rewrite/gamelogic.js)
 
