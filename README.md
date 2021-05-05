@@ -1,5 +1,17 @@
 # Opdrachtbeschrijving
 
+## Uitwerkingen
+
+Je vindt de uitwerkingen op verschillende branches:
+* [uitwerkingen-display-word-so-far](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-display-word-so-far) - zie ook de [Githistory](https://github.githistory.xyz/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-display-word-so-far/gamelogic.js)
+* [uitwerkingen-is-game-won](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-is-game-won) - zie ook de [Githistory](https://github.githistory.xyz/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-is-game-won/gamelogic.js)
+* [uitwerkingen-is-game-lost](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-is-game-lost) - zie ook de [Githistory](https://github.githistory.xyz/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-is-game-lost/gamelogic.js)
+* [uitwerkingen-bonusopdrachten](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/bonusopdrachten)
+
+## Geoptimaliseerde uitwerkingen
+Deze uitwerkingen zijn speciaal voor de nieuwschierige aagjes die willen zien wat er allemaal mogelijk is wanneer je de methoden `map`, `filter` en `find` zou toepassen, en hoe kort je sommige dingen zou kunnen opschrijven. Het schrijven van je eigen oplossing - ook al is 'ie **veel** langer - is veel belangrijker!
+* [uitwerkingen-array-methods-rewrite](https://github.com/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-array-methods-rewrite) - zie ook de [Githistory](https://github.githistory.xyz/hogeschoolnovi/frontend-javascript-hangman-uitwerkingen/tree/uitwerkingen-array-methods-rewrite/gamelogic.js)
+
 ## Inleiding
 Met behulp van een aantal jest-testen ga je een interactief spelletje maken: galgje! De gebruiker kan letters raden en die via de terminal invoeren. Maar let op! Bij zeven foute letters is het game over!
 
